@@ -1,0 +1,6 @@
+{
+  "name": "Phishing Email Detector",
+  "description": "An interactive machine learning-based phishing email detection model and visualization system using Naive Bayes, Logistic Regression, and Decision Trees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
